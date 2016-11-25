@@ -10,3 +10,6 @@ It writes a seperate file for each share
 
 # Usage
 edit the path or file for $Computers, enter a list of machines you wish to test, one per line
+
+# Kudos
+This script was written for me by a coworker Graham Hope 
